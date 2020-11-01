@@ -46,3 +46,6 @@ h1{
 body{
     margin: 0;
 }
+p img{
+    width: 350px;
+}
